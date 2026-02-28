@@ -18,7 +18,7 @@ const PROJECTS = [
     title: "Iris Flower Classifier",
     summary: "Classic multiclass classification on the Iris dataset using a Random Forest. Demonstrates end-to-end sklearn pipeline with pickle serialization.",
     tags: ["Classification", "Sklearn", "Random Forest"],
-    status: "ongoing",
+    status: "in-progress",
     link: "#" // ← Replace with your Streamlit/Gradio URL
   },
   {
@@ -26,7 +26,7 @@ const PROJECTS = [
     title: "House Price Predictor",
     summary: "Linear Regression model trained on the California Housing dataset. Features normalization, cross-validation, and a live price estimator UI.",
     tags: ["Regression", "Sklearn", "Linear Regression"],
-    status: "ongoing",
+    status: "in-progress",
     link: "#"
   },
   {
