@@ -11,3 +11,26 @@
 
 # Logs
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+.streamlit_venv/
+venv/
+env/
+
+# uv
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
