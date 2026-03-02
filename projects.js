@@ -15,26 +15,26 @@
 const PROJECTS = [
   {
     day: 1,
-    title: "Iris Flower Classifier",
-    summary: "Classic multiclass classification on the Iris dataset using a Random Forest. Demonstrates end-to-end sklearn pipeline with pickle serialization.",
-    tags: ["Classification", "Sklearn", "Random Forest"],
-    status: "in-progress",
-    link: "#" // ← Replace with your Streamlit/Gradio URL
+    title: "Salary Predictor",
+    summary: "Simple Linear Regression model to predict salary from months of experience. Built with a custom interactive Streamlit UI featuring live regression line plots.",
+    tags: ["Regression", "Linear Regression", "Streamlit", "Sklearn"],
+    status: "completed",
+    link: "https://bhuvanchaithanya-salary-predictor-day1.streamlit.app"
   },
   {
     day: 2,
-    title: "House Price Predictor",
-    summary: "Linear Regression model trained on the California Housing dataset. Features normalization, cross-validation, and a live price estimator UI.",
-    tags: ["Regression", "Sklearn", "Linear Regression"],
-    status: "in-progress",
+    title: "Project 2 — Coming Soon",
+    summary: "The next challenge in the 30-day series will be revealed and deployed tomorrow.",
+    tags: ["Regression", "TBD"],
+    status: "upcoming",
     link: "#"
   },
   {
     day: 3,
-    title: "Sentiment Analyzer",
-    summary: "Logistic Regression NLP model for binary sentiment classification on movie reviews using TF-IDF feature extraction.",
-    tags: ["NLP", "Classification", "TF-IDF"],
-    status: "in-progress",
+    title: "Project 3 — Coming Soon",
+    summary: "Project details and live model will be added on Day 3.",
+    tags: ["NLP", "TBD"],
+    status: "upcoming",
     link: "#"
   },
   {
