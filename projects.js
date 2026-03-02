@@ -19,7 +19,7 @@ const PROJECTS = [
     summary: "Simple Linear Regression model to predict salary from months of experience. Built with a custom interactive Streamlit UI featuring live regression line plots.",
     tags: ["Regression", "Linear Regression", "Streamlit", "Sklearn"],
     status: "completed",
-    link: "https://bhuvanchaithanya-salary-predictor-day1.streamlit.app"
+    link: "https://30-day-ml-challenge-bsv2u9v3jfpsdfqdtm3m6n.streamlit.app/"
   },
   {
     day: 2,
