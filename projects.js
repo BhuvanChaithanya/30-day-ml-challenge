@@ -23,11 +23,11 @@ const PROJECTS = [
   },
   {
     day: 2,
-    title: "Project 2 — Coming Soon",
-    summary: "The next challenge in the 30-day series will be revealed and deployed tomorrow.",
-    tags: ["Regression", "TBD"],
-    status: "upcoming",
-    link: "#"
+    title: "Sales Prediction Dashboard",
+    summary: "Enter the advertising budget for TV, Radio, and Newspaper below to predict the estimated sales",
+    tags: ["Multiple Linear Regression", "Streamlit", "Sklearn"],
+    status: "completed",
+    link: "https://youeyw5sutbea3uex8qkum.streamlit.app/"
   },
   {
     day: 3,
